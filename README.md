@@ -14,7 +14,7 @@ Clonez le dépôt et installez les dépendances :
 
 ```bash
 git clone https://github.com/yann-fk-21/TP00_Search_Based_Software_Engineering.git
-cd TP_SBSE
+cd TP00_Search_Based_Software_Engineering
 ```
 
 ## Utilisation
